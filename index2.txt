@@ -1,3 +1,0 @@
-HTML in vim takes too long.
-
-New line made by Mr. Downloads.
